@@ -1,0 +1,15 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#22c1c3;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#17789e;stop-opacity:0.1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <rect x="50" y="50" width="300" height="200" rx="20" fill="#ffffff" stroke="#22c1c3" stroke-width="2"/>
+  <circle cx="120" cy="120" r="30" fill="#22c1c3" opacity="0.3"/>
+  <rect x="180" y="100" width="120" height="40" rx="8" fill="#17789e" opacity="0.3"/>
+  <rect x="180" y="160" width="80" height="20" rx="4" fill="#22c1c3" opacity="0.3"/>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#17789e">Automatisierung</text>
+</svg>
+
